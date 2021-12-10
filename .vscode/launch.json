@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch F4inal_2",
+            "request": "launch",
+            "mainClass": "finala.F4inal_2",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex01",
+            "request": "launch",
+            "mainClass": "home04.ex01",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch F4inal",
+            "request": "launch",
+            "mainClass": "finala.F4inal",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex04",
+            "request": "launch",
+            "mainClass": "home04.ex04",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex03",
+            "request": "launch",
+            "mainClass": "home04.ex03",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Metrix",
+            "request": "launch",
+            "mainClass": "home04.Metrix",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array2D",
+            "request": "launch",
+            "mainClass": "home04.Array2D",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex02",
+            "request": "launch",
+            "mainClass": "home04.ex02",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home03_4",
+            "request": "launch",
+            "mainClass": "home3.Home03_4",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home03_3",
+            "request": "launch",
+            "mainClass": "home3.Home03_3",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch ToString",
+            "request": "launch",
+            "mainClass": "home3.ToString",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test_SubString",
+            "request": "launch",
+            "mainClass": "home3.Test_SubString",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubString",
+            "request": "launch",
+            "mainClass": "home3.SubString",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw32",
+            "request": "launch",
+            "mainClass": "homework03.hw32",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch salary",
+            "request": "launch",
+            "mainClass": "homework03.salary",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch salary",
+            "request": "launch",
+            "mainClass": "salary",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileSample",
+            "request": "launch",
+            "mainClass": "home03.WhileSample",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChoiceSample",
+            "request": "launch",
+            "mainClass": "home03.ChoiceSample",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Credit",
+            "request": "launch",
+            "mainClass": "home03.Credit",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home03",
+            "request": "launch",
+            "mainClass": "home03.Home03",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exp1",
+            "request": "launch",
+            "mainClass": "exp1.Exp1",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home022",
+            "request": "launch",
+            "mainClass": "homework.Home022",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home022",
+            "request": "launch",
+            "mainClass": "homee.Home022",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home022",
+            "request": "launch",
+            "mainClass": "Homee.Home022",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickStart",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home022",
+            "request": "launch",
+            "mainClass": "home.Home022",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch HomeCH02",
+            "request": "launch",
+            "mainClass": "homeCH02.HomeCH02",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home022",
+            "request": "launch",
+            "mainClass": "homeCH02.Home022",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exp2",
+            "request": "launch",
+            "mainClass": "exp2.Exp2",
+            "projectName": "JAVA_9c5dd5ed"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home01",
+            "request": "launch",
+            "mainClass": "Home01",
+            "projectName": "Home01_fb69984b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Home01",
+            "request": "launch",
+            "mainClass": "Home01",
+            "projectName": "Java_9c5e520d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickStart",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "Java_9c5e520d"
+        }
+    ]
+}
